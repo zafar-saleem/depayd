@@ -1,0 +1,122 @@
+.txt-ttl100 {
+  font-size: var(--gss100);
+}
+
+.txt-ttl200 {
+  font-size: var(--gss200);
+}
+
+.txt-ttl300 {
+  font-size: var(--gss300);
+}
+
+.txt-ttl400 {
+  font-size: var(--gss400);
+}
+
+.txt-ttl500 {
+  font-size: var(--gss500);
+}
+
+.txt-ttl600 {
+  font-size: var(--gss600);
+}
+
+.txt-ttl700 {
+  font-size: var(--gss700);
+}
+
+.txt-ttl800 {
+  font-size: var(--gss800);
+}
+
+.txt-ttl900 {
+  font-size: var(--gss900);
+}
+
+.txt-000 {
+  font-size: var(--gss);
+}
+
+.txt-100 {
+  font-size: var(--gss100);
+}
+
+.txt-200 {
+  font-size: var(--gss200);
+}
+
+.txt-300 {
+  font-size: var(--gss300);
+}
+
+.txt-400 {
+  font-size: var(--gss400);
+}
+
+.txt-500 {
+  font-size: var(--gss500);
+}
+
+.txt-color-100 {
+  color: var(--sup-col100);
+}
+
+.txt-color-200 {
+  color: var(--sup-col200);
+}
+
+.txt-color-300 {
+  color: var(--sup-col300);
+}
+
+.txt-color-400 {
+  color: var(--sup-col400);
+}
+
+.txt-color-500 {
+  color: var(--sup-col500);
+}
+
+.txt-color-600 {
+  color: var(--sup-col600);
+}
+
+.txt-color-700 {
+  color: var(--sup-col700);
+}
+
+.txt-color-800 {
+  color: var(--sup-col800);
+}
+
+.txt-alin-l {
+  text-align: left;
+}
+
+.txt-alin-r {
+  text-align: right;
+}
+.txt-alin-c {
+  text-align: center;
+}
+
+.txt-bold {
+  font-weight: bold;
+}
+
+.txt-error {
+  color: var(--neu-col100);
+}
+
+.txt-info {
+  color: var(--neu-col200);
+}
+
+.txt-success {
+  color: var(--neu-col300);
+}
+
+.txt-warning {
+  color: var(--neu-col400);
+}

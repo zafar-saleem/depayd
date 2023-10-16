@@ -1,0 +1,24 @@
+.bar {
+  position: fixed;
+  bottom: -1px;
+  left: 0;
+  width: 100%;
+  color: var(--sup-col100);
+  font-size: 1.2rem;
+  background-color: var(--color600);
+}
+
+.shipping-fee {
+  display: inline-block;
+  font-size: 0.6rem;
+}
+
+.btn {
+  text-align: right;
+}
+
+.btn-add {
+  background-color: var(--color500);
+  color: var(--sup-col100);
+  border: 1px solid var(--color500);
+}

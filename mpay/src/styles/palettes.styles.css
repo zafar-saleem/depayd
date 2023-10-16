@@ -1,0 +1,28 @@
+:root {
+  --color100: #ffcccc;
+  --color200: #ff9999;
+  --color300: #cc6666;
+  --color400: #d85b49; /**/
+  --color500: #c23d3c; /* branding */
+  --color600: #660000;
+  --color700: #663333;
+  --color800: #330000;
+  --color900: #38231e; /**/
+
+  --sup-col000: #f1f1f1;
+  --sup-col100: #fcfcff;
+  --sup-col200: #e3e3e6;
+  --sup-col300: #cacacc;
+  --sup-col400: #b1b1b3;
+  --sup-col500: #7e7e80; /**/
+  --sup-col600: #979799;
+  --sup-col700: #656566;
+  --sup-col800: #4c4c4d;
+  --sup-col900: #323233;
+  --sup-col1000: #19191a;
+
+  --neu-col100: #db3651;
+  --neu-col200: #3936db;
+  --neu-col300: #36db4a;
+  --neu-col400: #db9d36;
+}

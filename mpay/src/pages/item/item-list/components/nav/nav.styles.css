@@ -1,0 +1,39 @@
+:root {
+  --active: #ce7668;
+  --color: #d1d1d3;
+}
+
+.nav {
+  top: 0;
+  left: 0;
+  padding: 0.5rem 1rem;
+  position: fixed;
+  width: 100vw;
+  z-index: 1;
+  background-color: #ffffff;
+}
+
+.nav-item {
+  position: relative;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  color: var(--color);
+  font-size: 0.7rem;
+}
+
+.active {
+  position: relative;
+  color: var(--active);
+  font-weight: bold;
+}
+
+.indicator {
+  z-index: 100;
+  background: var(--sup-col000);
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  top: 24px;
+  width: 12px;
+}

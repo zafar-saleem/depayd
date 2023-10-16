@@ -1,0 +1,53 @@
+.card {
+  position: relative;
+  background-color: #ffffff;
+  box-shadow: 0 0 2px #cccccc;
+}
+
+.sold {
+  width: 50px;
+  position: absolute;
+}
+
+.card-cover {
+  width: 100%;
+}
+
+.card-meta {
+  padding: 0 1rem 1rem 1rem;
+}
+
+.card-meta__title {
+  line-height: 15px;
+}
+
+.card-meta__title a {
+  color: #767676;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.card-meta__c1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.card-meta__price {
+  font-weight: bold;
+}
+
+.like {
+  width: 16px;
+  margin-right: 2px;
+}
+
+.card-meta__count {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.card-meta__likes {
+  text-align: right;
+  font-size: 0.8rem;
+}

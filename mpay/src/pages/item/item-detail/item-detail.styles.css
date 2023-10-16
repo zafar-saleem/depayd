@@ -1,0 +1,74 @@
+body {
+  background-color: #ffffff;
+}
+
+.cover {
+  position: relative;
+}
+
+.cover-product {
+  width: 100%;
+  /* margin-top: 1rem; */
+}
+
+.cover-sold {
+  position: absolute;
+  top: 4rem;
+  width: 60px;
+}
+
+.flag {
+  width: 35px;
+  border-radius: 10rem;
+}
+
+.actions {
+  display: flex;
+  width: 100%;
+  place-items: center;
+}
+
+.actions-c1 {
+  width: 57%;
+}
+
+.like-count {
+  vertical-align: baseline;
+  color: var(--sup-col700);
+}
+
+.actions-c1 span, .actions__comment-c span {
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.actions-c1__like-c, .actions__comment-c {
+  padding: 0.4rem;
+  background: var(--sup-col200);
+  border-radius: 10rem;
+  color: var(--sup-col600);
+
+  place-items: center;
+  display: inline-flex;
+}
+
+.actions__comment {
+  width: 15px;
+}
+
+.actions__comment-c {
+  width: 44%;
+}
+
+.c1 .like-c span, .comment-c span {
+  font-size: 0.7rem;
+}
+
+.flag-c {
+  display: block;
+  width: 63%;
+}
+
+.desc {
+  background-color: var(--sup-col200);
+}

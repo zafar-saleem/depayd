@@ -1,0 +1,24 @@
+@import url(./styles/vars.styles.css);
+@import url(./styles/palettes.styles.css);
+@import url(./styles/gaps.styles.css);
+@import url(./styles/spaces.styles.css);
+@import url(./styles/typography.styles.css);
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: var(--sup-col700);
+}
+
+body {
+  margin: 0;
+  font-size: var(--gss100);
+  background-color: var(--sup-col000);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
